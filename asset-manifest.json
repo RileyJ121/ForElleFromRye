@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/forellefromrye/static/css/main.5dae233c.css",
+    "main.js": "/forellefromrye/static/js/main.21eeba69.js",
+    "index.html": "/forellefromrye/index.html",
+    "main.5dae233c.css.map": "/forellefromrye/static/css/main.5dae233c.css.map",
+    "main.21eeba69.js.map": "/forellefromrye/static/js/main.21eeba69.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5dae233c.css",
+    "static/js/main.21eeba69.js"
+  ]
+}
