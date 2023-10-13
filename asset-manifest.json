@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/ForElleFromRye/static/css/main.dee0b464.css",
+    "main.css": "/ForElleFromRye/static/css/main.6fa6ce19.css",
     "main.js": "/ForElleFromRye/static/js/main.0b6d8439.js",
     "index.html": "/ForElleFromRye/index.html",
-    "main.dee0b464.css.map": "/ForElleFromRye/static/css/main.dee0b464.css.map",
+    "main.6fa6ce19.css.map": "/ForElleFromRye/static/css/main.6fa6ce19.css.map",
     "main.0b6d8439.js.map": "/ForElleFromRye/static/js/main.0b6d8439.js.map"
   },
   "entrypoints": [
-    "static/css/main.dee0b464.css",
+    "static/css/main.6fa6ce19.css",
     "static/js/main.0b6d8439.js"
   ]
 }
